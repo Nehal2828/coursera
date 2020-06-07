@@ -1,0 +1,23 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "\"# coursera\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nehal2828/coursera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nehal2828/coursera/issues"
+  },
+  "homepage": "https://github.com/Nehal2828/coursera#readme",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
